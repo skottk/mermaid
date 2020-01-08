@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Mermaid",
+    "owner": "Skott",
+    "description": "Drawing diagrams in the browser"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Model",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
